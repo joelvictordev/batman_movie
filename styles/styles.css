@@ -46,7 +46,7 @@ li:hover {
 }
 
 #banner {
-    background-image: url('https://www.comunidadedasnacoes.com.br/wp-content/uploads/2022/04/batman.png');
+    background-image: url('https://i0.wp.com/valkirias.com.br/wp-content/uploads/2022/03/valkirias-the-batman-capa-1.png?fit=1080%2C540&ssl=1');
     background-position: 50% 50%;
     background-size: cover;
     width: 100%;
@@ -274,3 +274,5 @@ span {
     margin-bottom: 25px;
     padding: 8px 10px;
 }
+
+/*link do antigo banner https://www.comunidadedasnacoes.com.br/wp-content/uploads/2022/04/batman.png*/
